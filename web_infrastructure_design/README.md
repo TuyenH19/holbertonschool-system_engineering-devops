@@ -1,4 +1,4 @@
-![cover](cover.jpeg)
+![cover](/workspaces/Holberton/holbertonschool-system_engineering-devops/web_infrastructure_design/cover.jpeg)
 # Web infrastructure design
 
 ## Concepts

@@ -1,5 +1,5 @@
-![cover](cover.png)
 # Web infrastructure design
+![cover](https://imgur.com/Pra00qZ)
 
 ## Concepts
     Network basics

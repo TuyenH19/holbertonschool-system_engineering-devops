@@ -1,5 +1,5 @@
 # Web infrastructure design
-![alt text](cover.png)
+![Alt text](image/cover.png)
 
 ## Concepts
     Network basics
